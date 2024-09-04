@@ -54,7 +54,7 @@
   
   
   .menu-item:hover .image-overlay {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)); /* Darken overlay on hover */
-    transition: background 0.3s ease-in-out; /* Smooth transition effect */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)); 
+    transition: background 0.3s ease-in-out; 
   }
   

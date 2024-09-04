@@ -1,0 +1,77 @@
+
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url('https://i.ibb.co/5rwLYfk/e502905d-15f4-4d20-8e7c-14c38a8d75f9.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+    text-align: center; 
+  }
+  
+ 
+  .home-text {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+  }
+
+  .tvshows-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url('https://i.ibb.co/X8CxRmM/7127e36d-5194-4865-8646-f66d5c3e66d7.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+    text-align: center; 
+  }
+  
+
+  .tvshows-text {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+  }
+  .sports-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url('https://i.ibb.co/vPTyTcb/d54fe3ba-db43-4469-b530-531c15e56492.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+    text-align: center; 
+  }
+  
+  
+  .sports-text {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+  }
+  .movies-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-image: url('https://i.ibb.co/0jJrcbH/25bf31c9-4002-433f-a981-5b56f6d7e9b2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+    text-align: center; 
+  }
+  
+  .movies-text {
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+  }
+  
